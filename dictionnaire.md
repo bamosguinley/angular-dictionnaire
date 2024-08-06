@@ -14,7 +14,7 @@
 - **Usage**: `ng serve`
 - **Options courantes**:
   - `--port=4201`: Définit le port du serveur.
-  - `--open`: Ouvre l'application dans le navigateur par défaut.
+  - `--open` ou `-o`: Ouvre l'application dans le navigateur par défaut.
 
 ### `ng generate`
 - **Description**: Génère des fichiers de code (composants, services, modules, etc.).

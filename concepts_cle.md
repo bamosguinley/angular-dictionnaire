@@ -387,18 +387,6 @@ import { AboutComponent } from './components/about/about.component';
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent }
-
-
-Bien sûr, voici la suite du guide :
-
-#### Configuration du Routing (suite)
-
-**Module de Routage (`app-routing.module.ts`) :**
-
-```typescript
-const routes: Routes = [
-  { path: '', component: HomeComponent },
-  { path: 'about', component: AboutComponent }
 ];
 
 @NgModule({
